@@ -1,6 +1,6 @@
 cask "damagochi" do
-  version "2.1.8"
-  sha256 "fefef0b509ad88de800c1026f557483ea340574b55c058de28e6bbb50b0ddd28"
+  version "2.1.9"
+  sha256 "e77991ba5b808d923bd3b226e59069b8044594020b174ba69a1032a3de79bd25"
 
   url "https://github.com/keepbang/damagochi/releases/download/v#{version}/Damagochi.zip"
   name "Damagochi"
